@@ -11,7 +11,7 @@ I’m a financial services professional currently transitioning into IT, with a 
 ![Security+](https://img.shields.io/badge/CompTIA-Security%2B-EA3E2C?style=for-the-badge&logo=comptia&logoColor=white)
 
 <h2>👨‍💻 Projects & Labs:</h2></div>
-### 🔐 Windows Server Active Directory Home Lab
+ 🔐 Windows Server Active Directory Home Lab
 - Deployed Windows Server domain environment using Virtual Machines
 - Set up Active Directory, DNS Server, and DHCP
 - Created and managed users, OUs, and GPOs
