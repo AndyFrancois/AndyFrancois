@@ -12,11 +12,11 @@ I’m a financial services professional currently transitioning into IT, with a 
 
 <h2>👨‍💻 Projects & Labs:</h2></div>
  🔐 Windows Server Active Directory Home Lab
-- Deployed Windows Server domain environment using Virtual Machines
-- Set up Active Directory, DNS Server, and DHCP
-- Created and managed users, OUs, and GPOs
-- Implemented security hardening policies
-- Simulated help desk tasks (password resets, account lockouts)
+ - Deployed Windows Server domain environment using Virtual Machines
+ - Set up Active Directory, DNS Server, and DHCP
+ - Created and managed users, OUs, and GPOs 
+ - Implemented security hardening policies
+ - Simulated help desk tasks (password resets, account lockouts)
 
 🔗 Project Link
 
