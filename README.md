@@ -10,10 +10,10 @@ I’m a financial services professional currently transitioning into IT, with a 
 ![CCNA](https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Security+](https://img.shields.io/badge/CompTIA-Security%2B-EA3E2C?style=for-the-badge&logo=comptia&logoColor=white)
 
-[CCNA]: https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html#tabs-a107e9a621-item-b27a5c1e52-tab
 <h2>👨‍💻 Projects & Labs:</h2></div>
-### 🔐 Active Directory Home Lab
-- Deployed Windows Server domain environment
+### 🔐 Windows Server Admin LabHome Lab
+- Deployed Windows Server domain environment using Virtual Machines
+- Set up Active Directory, DNS Server, and DHCP
 - Created and managed users, OUs, and GPOs
 - Implemented security hardening policies
 - Simulated help desk tasks (password resets, account lockouts)
