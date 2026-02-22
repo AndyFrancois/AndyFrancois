@@ -10,6 +10,7 @@ I’m a financial services professional currently transitioning into IT, with a 
 ![CCNA](https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Security+](https://img.shields.io/badge/CompTIA-Security%2B-EA3E2C?style=for-the-badge&logo=comptia&logoColor=white)
 
+[CCNA]: https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html#tabs-a107e9a621-item-b27a5c1e52-tab
 <h2>👨‍💻 Projects & Labs:</h2></div>
 ### 🔐 Active Directory Home Lab
 - Deployed Windows Server domain environment
