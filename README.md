@@ -1,24 +1,16 @@
-<h1>Hi, I'm Andy! <br/>IT Specialist w/ Networking & Cybersecurity Specialization </h1>
+<h1>Hi, I'm Andy! <br/>Aspiring Network Admin | Systems Admin | SOC Analyst </h1>
 
 
 I’m a financial services professional currently transitioning into IT, with a focus on networking, systems administration, and cybersecurity. I have a strong foundation in networking concepts and protocols, including TCP/IP, subnetting, VLANs, routing, and core network services. I use this GitHub as a portfolio to document the hands-on labs, real-world scenarios, and ongoing projects I’m completing to build practical, job-ready skills.
 
-Aspiring Network Administrator | Systems Administrator | SOC Analyst
 
-
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-## 🎓 Certifications
-## 🎓 Certifications
 
 ## 🎓 Certifications
 
 ![CCNA](https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Security+](https://img.shields.io/badge/CompTIA-Security%2B-EA3E2C?style=for-the-badge&logo=comptia&logoColor=white)
 
-
-</div>
+<h2>👨‍💻 Projects & Labs:</h2></div>
 ### 🔐 Active Directory Home Lab
 - Deployed Windows Server domain environment
 - Created and managed users, OUs, and GPOs
@@ -40,8 +32,6 @@ Aspiring Network Administrator | Systems Administrator | SOC Analyst
 - Building a SIEM lab for log ingestion and alerting
 - Automating user provisioning with PowerShell
 
-## 📫 Connect With Me
-LinkedIn: …
 
 <!--
 **AndyFrancois/AndyFrancois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
