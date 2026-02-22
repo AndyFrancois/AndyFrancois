@@ -1,7 +1,7 @@
 <h1>Hi, I'm Andy! <br/>IT Specialist w/ Networking & Cybersecurity Specialization </h1>
 
 
-I’m a financial services professional currently transitioning into IT, with a focus on networking, systems administration, and cybersecurity. I use this GitHub as a portfolio to document the hands-on labs, real-world scenarios, and ongoing projects I’m working through as I build practical, job-ready skills.
+I’m a financial services professional currently transitioning into IT, with a focus on networking, systems administration, and cybersecurity. I have a strong foundation in networking concepts and protocols, including TCP/IP, subnetting, VLANs, routing, and core network services. I use this GitHub as a portfolio to document the hands-on labs, real-world scenarios, and ongoing projects I’m completing to build practical, job-ready skills.
 
 Aspiring Network Administrator | Systems Administrator | SOC Analyst
 
