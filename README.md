@@ -30,8 +30,10 @@ I’m a financial services professional currently transitioning into IT, with a 
 **Virtualization:** UTM / VMware / VirtualBox  
 
 ## 📌 Currently Working On
-- Building a SIEM lab for log ingestion and alerting
-- Automating user provisioning with PowerShell
+- Practicing AD, DNS, and GPO setup in Windows Server environments
+- Building a GitHub portfolio with lab-based sysadmin tasks
+- Learning to automate basic tasks with PowerShell and bash
+- Exploring Ubuntu Server and user/permission management
 
 
 <!--
